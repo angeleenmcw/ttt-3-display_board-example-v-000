@@ -1,5 +1,7 @@
-def print_name
-  puts "Guy Fieri"
-enddef print_name
-  puts "Guy Fieri"
+def display_board
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
 end
